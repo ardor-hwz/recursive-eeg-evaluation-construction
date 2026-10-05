@@ -1,0 +1,16 @@
+quantity,mean,status,contrast_orientation,sign_interpretation,analysis_layer,universe
+A_Full_T_fixed,1.484708802702293,descriptive; no component interval,Theta_equal - Theta_fixed,negative: equal total dose gives lower M1 interaction; positive: higher,primary_corrected_192,primary_fixed_roots
+A_Full_S_fixed,22.288401822083298,descriptive; no component interval,Theta_equal - Theta_fixed,negative: equal total dose gives lower M1 interaction; positive: higher,primary_corrected_192,primary_fixed_roots
+A_C0_T_fixed,0.99999999999999978,descriptive; no component interval,Theta_equal - Theta_fixed,negative: equal total dose gives lower M1 interaction; positive: higher,primary_corrected_192,primary_fixed_roots
+A_C0_S_fixed,20,descriptive; no component interval,Theta_equal - Theta_fixed,negative: equal total dose gives lower M1 interaction; positive: higher,primary_corrected_192,primary_fixed_roots
+D_S_fixed,2.2884018220833005,descriptive; no component interval,Theta_equal - Theta_fixed,negative: equal total dose gives lower M1 interaction; positive: higher,primary_corrected_192,primary_fixed_roots
+D_T_fixed,0.48470880270229316,descriptive; no component interval,Theta_equal - Theta_fixed,negative: equal total dose gives lower M1 interaction; positive: higher,primary_corrected_192,primary_fixed_roots
+Theta_fixed,1.8036930193810075,descriptive; no component interval,Theta_equal - Theta_fixed,negative: equal total dose gives lower M1 interaction; positive: higher,primary_corrected_192,primary_fixed_roots
+A_Full_T_equal,1.484708802702293,descriptive; no component interval,Theta_equal - Theta_fixed,negative: equal total dose gives lower M1 interaction; positive: higher,primary_corrected_192,primary_fixed_roots
+A_Full_S_equal,1.2613919431318965,descriptive; no component interval,Theta_equal - Theta_fixed,negative: equal total dose gives lower M1 interaction; positive: higher,primary_corrected_192,primary_fixed_roots
+A_C0_T_equal,0.99999999999999978,descriptive; no component interval,Theta_equal - Theta_fixed,negative: equal total dose gives lower M1 interaction; positive: higher,primary_corrected_192,primary_fixed_roots
+A_C0_S_equal,0.9999999999999919,descriptive; no component interval,Theta_equal - Theta_fixed,negative: equal total dose gives lower M1 interaction; positive: higher,primary_corrected_192,primary_fixed_roots
+D_S_equal,0.26139194313190445,descriptive; no component interval,Theta_equal - Theta_fixed,negative: equal total dose gives lower M1 interaction; positive: higher,primary_corrected_192,primary_fixed_roots
+D_T_equal,0.48470880270229316,descriptive; no component interval,Theta_equal - Theta_fixed,negative: equal total dose gives lower M1 interaction; positive: higher,primary_corrected_192,primary_fixed_roots
+Theta_equal,-0.22331685957038866,descriptive; no component interval,Theta_equal - Theta_fixed,negative: equal total dose gives lower M1 interaction; positive: higher,primary_corrected_192,primary_fixed_roots
+DeltaConstruction,-2.0270098789513962,sole new inferential estimand,Theta_equal - Theta_fixed,negative: equal total dose gives lower M1 interaction; positive: higher,primary_corrected_192,primary_fixed_roots

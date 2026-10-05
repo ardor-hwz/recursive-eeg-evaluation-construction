@@ -1,0 +1,35 @@
+# Original datasets, individual arrays and fitted models.
+/data/
+/datasets/
+/raw_data/
+/intermediate/
+/outputs/
+/checkpoints/
+*.mat
+*.set
+*.fdt
+*.edf
+*.bdf
+*.npy
+*.npz
+*.h5
+*.hdf5
+*.parquet
+*.pt
+*.pth
+*.pkl
+*.pickle
+
+# Local environment and credentials.
+.env
+.env.*
+*.pem
+*.key
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
