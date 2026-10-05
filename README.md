@@ -1,4 +1,4 @@
-# Paper 2 publication code
+# Evaluation Construction and Conditional Interpretation in Recursive EEG-Based PERCLOS-Related Drowsiness Tracking
 
 ## Overview
 
